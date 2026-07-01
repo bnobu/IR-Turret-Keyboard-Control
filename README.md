@@ -20,3 +20,9 @@ Control the Crunchlabs IR turret using IR remote OR Python keyboard input.
 
 ```bash
 pip install -r requirements.txt --break-system-packages
+```
+
+## Run
+```bash
+python3 controller.py
+```
