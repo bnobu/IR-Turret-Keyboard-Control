@@ -1,6 +1,6 @@
 # IR + Serial Turret Controller
 
-Control the Crunchlabs IR turret using IR remote OR Python keyboard input.
+Control the Crunchlabs IR turret using Python keyboard input.
 
 ## Features
 - IR remote control (NEC protocol)
